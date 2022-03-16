@@ -1,0 +1,18 @@
+bonjour le mondebonjour le monde
+le premier nombre est:=nbre1
+le second nombre est:+nbre2
+la somme des deux nombres est:9bonjour le monde
+le premier nombre est:=nbre1
+le second nombre est:+nbre2bonjour le monde
+le premier nombre est:=nbre1
+le second nombre est:+nbre2
+la somme des deux nombres est:7bonjour le monde
+le premier nombre est:+nbre1
+le second nombre est:+nbre2
+la somme des deux nombres est:11bonjour le monde
+le premier nombre est:+nbre1
+le second nombre est:+nbre2
+la somme des deux nombres est:11bonjour le mondebonjour le monde
+le premier nombre est:5
+le second nombre est:6
+la somme des deux nombres est:11
